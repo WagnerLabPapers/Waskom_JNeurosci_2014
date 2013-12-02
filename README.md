@@ -76,13 +76,17 @@ labels were created from files distributed by
 
 Figures that are output by these notebooks.
 
-### subjects.txt
+### project.py
 
-The subject codes used in the processing.
+The lyman project file that was used to process the data.
 
 ### dksort.py
 
 The lyman experiment file for preprocessing the fMRI data.
+
+### subjects.txt
+
+The subject codes used in the processing.
 
 License 
 -------
