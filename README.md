@@ -38,8 +38,15 @@ these notebooks.
 Software Versions
 -----------------
 
-The versions of all Python software that is available on
-[PyPi](http://pypi.python.org/) are contained in the `dependencies.txt` file. 
+The versions of all Python packages that were installed when these analyses
+were performed are contained in the `dependencies.txt` file.
+
+To facilitate reproduction of these results, the minimum set of required
+packages are contained in the `conda_requirements.txt` and
+`pip_requirements.txt` files. These can be used to set up an analysis
+environment using `conda` and `pip` respectively. Please note that an effort
+was made for accuracy, but these files were created after the bulk of the
+analyses had been run and cached.
 
 Other software versions are recorded here:
 

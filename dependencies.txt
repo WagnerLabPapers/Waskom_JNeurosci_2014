@@ -22,7 +22,6 @@ bokeh==0.1.1
 boto==2.12.0
 casuarius==1.1
 chaco==4.3.0
-conda==2.0.3
 configobj==4.7.2
 cubes==0.10.2
 dipy==0.6.0
