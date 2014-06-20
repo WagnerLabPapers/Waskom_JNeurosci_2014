@@ -7,3 +7,4 @@ seaborn==0.2.1
 moss==0.2.0
 git+git://github.com/nipy/PySurfer.git@ca601acd2ff68c4deb3b3d2087baf16f001d4248#egg=PySurfer
 git+git://github.com/mwaskom/lyman.git@983c721824d31859383c3b5c5b64569af2f8130e#egg=lyman
+joblib==0.8.1

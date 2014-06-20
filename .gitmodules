@@ -1,0 +1,3 @@
+[submodule "nilearn"]
+	path = nilearn
+	url = git@github.com:nilearn/nilearn.git
