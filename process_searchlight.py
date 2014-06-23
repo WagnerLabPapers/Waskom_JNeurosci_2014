@@ -1,7 +1,5 @@
-import sys
-sys.path.insert(0, "nilearn/")
-
 import os
+import sys
 import os.path as op
 import argparse
 import numpy as np
