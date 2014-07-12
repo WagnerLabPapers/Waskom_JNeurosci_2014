@@ -6,15 +6,6 @@ Waskom, M.L., Kumaran, D., Gordon, A.M., Rissman, J., Wagner, A.D. (2014) Fronto
 
 The code is contained within several IPython notebooks that performed the analyses and generated all figures used in the manuscript.
 
-Authors
--------
-
-- Michael L. Waskom
-- Dharshan Kumaran
-- Alan M. Gordon
-- Jesse Rissman
-- Anthony D. Wagner
-
 Preprocessing
 -------------
 
