@@ -1,4 +1,4 @@
-# Frontoparietal Representations of Task Context Support the Flexible Control of Goal-Directed Cognition
+# Analysis repository for Waskom et al. (2014) J Neurosci
 
 This repository contains code for the manuscript
 
