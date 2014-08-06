@@ -1,9 +1,11 @@
 Analyses for Waskom et al. (2014) J Neurosci
 --------------------------------------------
 
-This repository contains code for the manuscript
+This repository contains analysis code for the following paper:
 
-Waskom, M.L., Kumaran, D., Gordon, A.M., Rissman, J., Wagner, A.D. (2014) Frontoparietal representations of task context support the flexible control of goal-directed cognition. *Journal of Neuroscience*. 
+Waskom, M.L., Kumaran, D., Gordon, A.M., Rissman, J., Wagner, A.D. (2014) Frontoparietal representations of task context support the flexible control of goal-directed cognition. *Journal of Neuroscience*. 34(32): 10743-10755.
+
+The paper itself is availible on the Journal of Neuroscience [website](http://www.jneurosci.org/content/34/32/10743).
 
 The code is contained within several IPython notebooks that performed the analyses and generated all figures used in the manuscript.
 
